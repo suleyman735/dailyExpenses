@@ -31,7 +31,7 @@ class Chart extends StatelessWidget {
       return sum + (item['amount'] as double);
     });
   }
-//huhuhiuhoojhjhkjsdcl sdkchdshhwdfsdcsdfcgxd
+//works?
   @override
   Widget build(BuildContext context) {
     print(groupedTransactionValues);
